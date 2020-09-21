@@ -22,6 +22,8 @@ La page d'accueil du site va afficher tous les potins que nous avons en base. Ce
 
 *Voici l'arborescence du programme :*
 
+![2](https://user-images.githubusercontent.com/68474669/93764122-1c1cb900-fc02-11ea-8356-962d21c4174f.png)
+
 
 **Instructions**
  Pour lancer le programme il faut suivre les instructions suivantes:
@@ -37,11 +39,16 @@ La page d'accueil du site va afficher tous les potins que nous avons en base. Ce
 
 
 ***Voici les membres du groupe 3 qui ont participé au travail de ce projet:***
- 4. Tojo Miadamalala
- 5. Mickaël Max Rkl
- 6. Zo Rajaoharimanana
- 7. Herisoa Nomenjanahary
- 8. Maminiana Mendrika
+ - Tojo Miadamalala
+ 
+ - Mickaël Max Rkl
+ 
+ - Zo Rajaoharimanana
+ 
+ - Herisoa Nomenjanahary
+ 
+ - Maminiana Mendrika
+ 
 
 Avec les profils GitHub respecté:
  - #https://github.com/Miadamalala
