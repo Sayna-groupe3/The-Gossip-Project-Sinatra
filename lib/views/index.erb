@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>The gossip project</title>
+</head>
+<body style="margin-top: 200px">
+<center><h1 style="width:300px; color:grey">Bienvenue dans the <em>Gossip Project</em></h1>
+<% gossips.each do |gossip| %>
+    <table style="width:500px">
+     <tr>
+     <td style="font-weight: ; color:#0063B2FF"><a href="/gossips/1/"> <%= gossip.author %></a></td>
+     <td style="text-align:center;color: grey; margin:auto"><%= gossip.content %></td>
+     <td style="text-align:center"><a href="/gossips/delete/"><button style="background: red; width:25px;height:25px; border-radius:50%; border-style:none">X</button></a></td>
+     </tr>
+    </table>
+  <% end %>
+<h2 style="font-family=arial; color:#3def4f">La liste des potins arrive bientôt!</h2>
+<a href="/gossips/new/"><button type='button' style="text-width:50px;background:skyblue; width:300px; height:50px; border-radius:1.2rem; box-shadow: 2px 3px 4px #000; color:#fff">Aller créer un nouveau potin</button></a></center>
+</body>
+</html>
